@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "periodo-de-oracao",
+  "private_key_id": "1376ec04dc38d06f2457bcd291041616e8004e22",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCa8ARi8k2kCwPQ\n3qxvIH2uumLyG90MVt9x/pDwKf0O+d7/qTvBMX2NVeOV5dhGrSccF6g8RuQ3Pj2G\nMclWECbn5ZdFpIGh7VF+YPGsJpy0lUk6b7xz0b1o9pNX6ztZsjIw2zx4IV1RjAj6\nS85/DuzVWzFFYT6NuP8EuCZuF5zC9b0rcfaOMAnlwCpHS1pnrjm7mKvYCRBLfRTk\nUYfrvAh8X+wrDLXyQhW7Dpv7LHdEuSFDoEp46PYBuUNLv6dnMWJPz3s133vW1hJt\n3w03k3/SRBXJPGTnTxeHYl35RivgeaH66hg1teEBDnoOBRzx1+1kNBqgqc/bXDwC\nN7ayvrnRAgMBAAECggEAEsOYtGcF8iUHXEdreLXlosCd9RZcyf7HZuXepcdgB21J\njYrwWrBktTY+rsu8Sqrzvpo63Ln1L5+REex7prmkDJeon12R+YtlQDn7as7uUYx2\n5uXbW+d92fVq2M37TRygqXwTsbTQuWyNNcrygj7LffdiWzWwvrc141tuBA1GBfJO\noldBY6pHZzTUiNFt62+XdehnN2UKQFCO+szFwKAFBWTEh6sARTwzZy+rEmdOf3V/\ngsLS0UzEZgHw/ypnbSedy4rbxJJ7fstLUrASfAsNoKZsEGyzbYhhufDnwZjmq57h\nygO+Hvql4iLQpbbuOF56C5gvcni012/SlCVOzpb+8QKBgQDQIJDlxHH/cI1h0Efy\nZp8QZE5hDpHqyaEu6t5aLzGVSeSmcwkDgx0T764tEyCM8ssOjS7BEKXdi4anD9MX\nqfpAQZ2yIQGjVmURFu+KkjNoF04Ta/kG6ug6/mvgISKlJKuBOoXc1KI8/H7P+ybK\nh6sLlD5ZNuffdP7Lr9DVSLxXtQKBgQC+k2n104aolWFdv2y5WmLlbiFj2teQrQVe\nE6Xtu1KQsj8WvjCpO/E4AD0bVYEhKM5mkJEHvgGxtS3FpQ8mozeeUzJrqPgIpeUl\n6oylccBp7E7YkWzqQEU2UdpHcqWAVJtYz/P70MefWROO1ZE0aKtN7OqopzJNSWln\njMDGIWlzLQKBgF4cy8jKew4aFCSN7WrEUtszsGmdEAiOYm93z1ISkyZBwr4tuH65\nFDYGpMlHI+n4hC+xUdoFsCstQ5dZxYem2j2iLi/1UutMTulaaLlNgSdpmmmX4oTp\nRlge4iL4eNUabt9B2nRQRoizWJitpg3hKUxUHZl0BYf7PJhYiWNYv6odAoGAQi2i\nsBDiRAyLoShmMv9mNFHIGorWLJFIueCM0D8qbsDXE6i78Si1nULH9YP9sWwgMJGn\nK08Z+4H1ARtOZZZsK/isG6Kzbx1cs4v9hz43GRFMV/w4HChxYGmQKRtwyV2YDIE6\nMonPqFAgcItNPyvRwN+ypRpaZ2hEyAaisqrLmYkCgYANU61qXA/CIaWELkhP2fsf\nTj6tRNRvl6IWyi/6+t2KJGlsp3ID5x9TJTTsJT3f0Q+ocPy6JhLv6L09aCv5hpEb\nXIHURxtmngkt9D0NxGmpU+ZkKKpEGJ0TvninAb4VA+q3PfzNvVt913H8ALmbC0Cr\nl1hXUhrxKz0P1gbE8FduRQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@periodo-de-oracao.iam.gserviceaccount.com",
+  "client_id": "110337673053675547608",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40periodo-de-oracao.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

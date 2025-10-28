@@ -1,4 +1,0 @@
-pip install streamlit pandas
-streamlit run agenda_periodo.py
-
-
